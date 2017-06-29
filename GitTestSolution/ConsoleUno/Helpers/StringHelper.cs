@@ -12,5 +12,21 @@ namespace ConsoleUno.Helpers
         {
             Console.WriteLine(text);
         }
+
+        public static string GetWordFromSentence(string input, int index)
+        {
+            string[] inputWords = input.Split(' ');
+            List<String> inputWordsList = inputWords.ToList();
+            inputWordsList.RemoveAll(s=>s.Equals(' '));
+            inputWordsList.ToArray();
+
+            if (index < 0)
+                index = 0;
+            if (index > inputWords.Length-1)
+                index--;
+
+            return inputWordsList[index];
+        }
+
     }
 }
