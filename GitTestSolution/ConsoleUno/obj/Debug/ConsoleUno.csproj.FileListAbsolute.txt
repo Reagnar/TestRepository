@@ -1,6 +1,5 @@
 D:\GitRepositories_test\GitTestSolution\ConsoleUno\bin\Debug\ConsoleUno.exe.config
 D:\GitRepositories_test\GitTestSolution\ConsoleUno\bin\Debug\ConsoleUno.exe
 D:\GitRepositories_test\GitTestSolution\ConsoleUno\bin\Debug\ConsoleUno.pdb
-D:\GitRepositories_test\GitTestSolution\ConsoleUno\obj\Debug\ConsoleUno.csprojResolveAssemblyReference.cache
 D:\GitRepositories_test\GitTestSolution\ConsoleUno\obj\Debug\ConsoleUno.exe
 D:\GitRepositories_test\GitTestSolution\ConsoleUno\obj\Debug\ConsoleUno.pdb
